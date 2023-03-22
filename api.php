@@ -1,10 +1,10 @@
 <?php
 
 $connect = mysqli_connect(
-    'sql213.epizy.com', // host
-    'epiz_29666120', // username
-    'U9x2tTEPKECh', // password
-    'epiz_29666120_students' // database
+    '<DB_HOST>', // host
+    '<DB_USERNAME>', // username
+    '<DB_PASSWORD>', // password
+    '<DB_DATABASE' // database
 );
 
 $data = array();
