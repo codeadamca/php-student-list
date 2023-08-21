@@ -1,10 +1,10 @@
 <?php
 
 $connect = mysqli_connect(
-    '<DB_HOST>', // host
-    '<DB_USERNAME>', // username
-    '<DB_PASSWORD>', // password
-    '<DB_DATABASE' // database
+    '<DB_HOST>',
+    '<DB_USERNAME>',
+    '<DB_PASSWORD>',
+    '<DB_DATABASE>'
 );
 
 ?>
